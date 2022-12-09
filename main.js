@@ -10,7 +10,7 @@ let typewriter = new Typewriter(app, {
 
 typewriter
 .pauseFor(2500)
-.typeString('Estudio en la carrera de Ingerieriá en Animación Digital y Efectos Visuales')
+.typeString('Estudio en la carrera de Ingeriería en Animación Digital y Efectos Visuales')
 .pauseFor(200)
 .deleteChars(10)
 .start();
